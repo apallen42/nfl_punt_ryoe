@@ -185,7 +185,6 @@ xgb_imp_plot <- ggplot(xgb_imp, aes(reorder(Feature, Gain), Gain, fill = fill)) 
 
 
 ##### FINAL FEATURE IMPORTANCE GRAPH
-#To do: Add bold title w/ Figure # (in or out of markup) and legend 
 feature_importance <- plot_grid(rf_imp_plot, xgb_imp_plot) + ggtitle("Feature Importance")
 
 
