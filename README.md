@@ -1,2 +1,3 @@
-# nfl_punt_ryoe
-A side project created by Andrew Allen (Institute for Advanced Analytics '22) to create a new NFL punt return yardage metric with machine learning: Return Yards Over Expected!
+# Was that punt good? Introducing RYOE
+
+This repository contains the wrangling, modeling, and visualization code pertaining to the Return Yards Over Expected (RYOE) metric, created by Andrew Allen (Institute for Advanced Analytics '22). To see the metric in action or learn more about it, check out [this brief report](apallen42.github.io).
